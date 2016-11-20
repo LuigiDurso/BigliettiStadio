@@ -75,6 +75,7 @@ public class Cliente extends Persona implements Serializable
 		return bigliettiPrenotati;
 	}
 	
+	
 	public ArrayList<Biglietto> getBigliettiAcquistati()
 	{
 		return bigliettiAcquistati;
