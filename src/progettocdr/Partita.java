@@ -128,7 +128,6 @@ public class Partita implements Serializable
 		dataAttuale.add(GregorianCalendar.HOUR_OF_DAY, 12);
 		
 		
-		
 		if(dataAttuale.before(dataPartita))
 		{
 			return true;
