@@ -36,7 +36,6 @@ public class Cliente extends Persona implements Serializable
 				throw new PartitaGiaPrenotataAcquistataException();
 			}
 		}
-		
 		return true;
 	}
 	
