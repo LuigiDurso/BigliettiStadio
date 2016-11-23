@@ -2,7 +2,7 @@ package progettocdr;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-
+//elenco biglietti
 public class Biglietti implements Serializable
 {
 	private ArrayList<Biglietto> biglietti;
